@@ -124,6 +124,7 @@
             border-radius: 5px;
             box-shadow: 1px 2px 27px #80808000;
             border: 1px solid #11111124;
+            width: 70%;
         }
         .form-area textarea {
             padding: 7px 50px 19px 13px;
